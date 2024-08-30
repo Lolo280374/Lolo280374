@@ -3,7 +3,7 @@
 <img src="https://github.com/Lolo280374/Lolo280374/blob/main/GudBanner.png"  style="border-radius: 5px;"/>
 
 <div align="left">
-  <a href="https://lolo280374.x10.mx/" target="_blank">
+  <a href="https://lolodotzip.lol" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCEibLUaRITrINeCNnPkkMYA" target="_blank">
