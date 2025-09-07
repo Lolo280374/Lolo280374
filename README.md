@@ -1,9 +1,9 @@
 <h2 align="left">hello there</h2>
 
-<img src="https://github.com/Lolo280374/Lolo280374/blob/main/banner.png"  style="border-radius: 5px;"/>
+<img src="https://github.com/user-attachments/assets/12340154-d790-47af-b213-1d7f6229141e" style="border-radius: 5px;"/>
 
 <div align="left">
-  <a href="https://lolodotzip.lol" target="_blank">
+  <a href="https://lolodotzip.tech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCEibLUaRITrINeCNnPkkMYA" target="_blank">
